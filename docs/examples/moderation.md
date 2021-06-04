@@ -143,7 +143,7 @@ client.on('message', message => {
 });
 
 // Log our bot in using the token from https://discord.com/developers/applications
-client.login('your token here');
+client.login('ODUwNDQzMjY1NTg4ODU0ODM0.YLpzAg.6CRBLdEWyZyzKaQK6GO_6I1Bgzg');
 ```
 
 And the result is:
